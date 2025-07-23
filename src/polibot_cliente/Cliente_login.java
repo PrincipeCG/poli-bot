@@ -81,8 +81,8 @@ public class Cliente_login extends javax.swing.JFrame {
                         }
                 });
 
-                jLabel3.setFont(new java.awt.Font("Ubuntu", 0, 36)); // NOI18N
-                jLabel3.setText("Poli bot");
+                jLabel3.setFont(new java.awt.Font("Ubuntu", 0, 30)); // NOI18N
+                jLabel3.setText("RESPONCIO");
 
                 javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
                 getContentPane().setLayout(layout);
